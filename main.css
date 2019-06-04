@@ -1,17 +1,32 @@
-* { 
-    background-color: aquamarine;
+body{
+    background-image: url("images/codingimage.png");    
 }
 
+.container { 
+    background-color: rgba(65, 183, 226, 0.8);
+    margin: 35px;
+    padding: 35px;
+}
+.wrapper {
+    background-color: black;
+    box-sizing: border-box;
+    padding: 35px; 
+    margin: 25px;
+}
 h2 {
-    color: #29D4BF;
+    color: white;
     font-size: 14px;
  }
 
 #para1 {
     color: white;
 }
-img {
-    height: 50%;
-    width: 50%;
+.logo {
+   
 
 }
+p {
+    text-align: center;
+    color: white;
+}
+
