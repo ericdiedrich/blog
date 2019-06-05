@@ -1,32 +1,48 @@
 body{
-    background-image: url("images/codingimage.png");    
+    background-image: url("images/whiteblue.jpg"); 
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    background-attachment: fixed;
 }
 
+.logobox{
+    display: flex;
+    justify-content: flex-end;
+    align-items:flex-end;
+
+}
+
+.button{
+    display: flex;
+    min-height: 3vh;
+    flex-direction: row;
+    justify-content: left;
+    align-content: left;
+}
 .container { 
-    background-color: rgba(65, 183, 226, 0.8);
-    margin: 35px;
-    padding: 35px;
+    background-color: rgba(0, 49, 185, 0.2);
+    margin: 75px;
+    padding: 2px;
 }
 .wrapper {
-    background-color: black;
+    background-color:white;
     box-sizing: border-box;
     padding: 35px; 
     margin: 25px;
 }
-h2 {
-    color: white;
-    font-size: 14px;
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
  }
-
-#para1 {
-    color: white;
-}
-.logo {
-   
-
-}
+h2 {
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+ }
 p {
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
+    font-size: 14px;
 }
-
+.right{
+    text-align: right;
+}
