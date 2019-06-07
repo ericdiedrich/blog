@@ -20,7 +20,7 @@ body{
 }
 .container { 
     background-color: rgba(0, 49, 185, 0.2);
-    margin: 75px;
+    margin: 275px;
     padding: 2px;
 }
 .wrapper {
@@ -31,7 +31,7 @@ body{
 }
 h1 {
     color: rgb(0, 0, 0);
-    font-size: 20px;
+    font-size: 42px;
  }
 h2 {
     color:rgb(0, 0, 0);
