@@ -18,14 +18,16 @@ body{
     align-items: center;
     max-width:100%;
     height:auto;
+    width:870px;
+    height:435px;
 }
 
 .print2{
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width:100%;
-    height:auto;
+    width:870px;
+    height:435px;
 }
 
 .button{
